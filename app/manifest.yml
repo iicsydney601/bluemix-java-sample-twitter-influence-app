@@ -1,0 +1,7 @@
+applications:
+- name: twitter_influence_analyzer
+  memory: 512M
+  host: iw-tiadev
+  domain: mybluemix.net
+  services: {
+    }
